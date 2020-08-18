@@ -1,22 +1,9 @@
-<h1 align="center">
-  <img src=".github/logo.svg" alt="Logo" height="70">
-</h1>
 
 <h3 align="center">
   Proffy - Get in touch with any teacher and learn what you want.
 </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eliasgcf/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-%239871F5"></a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/proffy?color=%239871F5">
-
-  <a href="https://github.com/EliasGcf/proffy/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/proffy?color=%239871F5"></a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/proffy?color=%239871F5">
-</p>
 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -74,11 +61,6 @@ Import the `Insomnia.json` on Insomnia App or click on [Run in Insomnia](#insomn
 
 > Obs.: I recommend use docker
 
-**Clone the project and access the folder**
-
-```bash
-$ git clone https://github.com/EliasGcf/proffy.git && cd proffy
-```
 
 **Install dependencies**
 
@@ -158,10 +140,4 @@ $ git push origin my-feature
 
 After your pull request is merged, you can delete your branch
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
-
-Made with 💜&nbsp; by Elias Gabriel 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/eliasgcf/)
